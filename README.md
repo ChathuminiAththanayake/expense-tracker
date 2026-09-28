@@ -33,12 +33,6 @@ Expense Tracker helps you record what you spend, see your total for the month, a
 
 ---
 
-## 🎥 Demo and download
-
-- 🎬 **Demo video:** [Watch here](YOUR_VIDEO_LINK)
-
----
-
 ## ✨ Features
 
 ### ✅ Required features
@@ -154,15 +148,6 @@ To use **your own** Firebase project instead:
 flutter run
 ```
 
-### 5️⃣ Build the APK
-```bash
-flutter build apk --release
-```
-The file is at `build/app/outputs/flutter-apk/app-release.apk`.
-
-> 📱 The app was tested on an Android emulator (Pixel 8).
-
----
 
 ## 🔒 Security
 
