@@ -29,7 +29,7 @@ Expense Tracker helps you record what you spend, see your total for the month, a
 
 | 📊 Monthly chart | 🌙 Dark mode |
 |:---:|:---:|
-| <img src="screenshots/Chart.png" width="220"> | <img src="screenshots/Dark-mode.png" width="220"> |
+| <img src="screenshots/Cart.png" width="220"> | <img src="screenshots/Dark - mode.png" width="220"> |
 
 ---
 
