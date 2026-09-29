@@ -128,7 +128,7 @@ Install Flutter (version 3 or newer) and run `flutter doctor`.
 
 ### 2️⃣ Get the project
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/ChathuminiAththanayake/expense-tracker>
 cd expense_tracker
 flutter pub get
 ```
