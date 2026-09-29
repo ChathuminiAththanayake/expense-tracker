@@ -25,11 +25,11 @@ Expense Tracker helps you record what you spend, see your total for the month, a
 
 | 🔐 Sign in | 🏠 Home | ➕ Add expense |
 |:---:|:---:|:---:|
-| <img src="screenshots/login.png" width="220"> | <img src="screenshots/home.png" width="220"> | <img src="screenshots/add-expense.png" width="220"> |
+| <img src="screenshots/Login.png" width="220"> | <img src="screenshots/Home.png" width="220"> | <img src="screenshots/Add-expense.png" width="220"> |
 
 | 📊 Monthly chart | 🌙 Dark mode |
 |:---:|:---:|
-| <img src="screenshots/chart.png" width="220"> | <img src="screenshots/dark-mode.png" width="220"> |
+| <img src="screenshots/Chart.png" width="220"> | <img src="screenshots/Dark-mode.png" width="220"> |
 
 ---
 
